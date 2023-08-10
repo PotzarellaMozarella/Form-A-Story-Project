@@ -2,7 +2,7 @@
 
 Create your own twist on a classic tale with the "Form A Story" project. This interactive web application harnesses the power of HTML forms to let you reimagine stories with your own input. Craft your narrative by filling in essential details through a user-friendly form. The resulting story seamlessly weaves together your chosen elements, making it a fun and engaging exercise in creative storytelling.
 
-Explore the Project: [Form A Story](#)
+Explore the Project: [Form A Story](https://form-a-story-azure.vercel.app/)
 
 ### Features
 
